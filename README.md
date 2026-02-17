@@ -1,4 +1,4 @@
-# Project 1: Real-Time Collaborative Code Editor
+# Real-Time Collaborative Code Editor
 
 ## 🎯 Project Overview
 
